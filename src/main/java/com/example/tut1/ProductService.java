@@ -40,4 +40,7 @@ public class ProductService {
                 .toList();
     }
 
+    DigitalProduct digitalProduct = new DigitalProduct();
+    PhysicalProduct physicalProduct = new PhysicalProduct();
+
 }
